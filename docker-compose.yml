@@ -1,0 +1,5 @@
+version: "3.8"
+services:
+  app-bibliotheque:
+    build: .
+    container_name: java-biblio-app
