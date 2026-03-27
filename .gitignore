@@ -1,0 +1,15 @@
+# Fichiers compilés Java
+*.class
+bin/
+build/
+out/
+
+# Fichiers spécifiques à Eclipse
+.metadata/
+.classpath
+.project
+.settings/
+
+# Fichiers macOS/Windows (au cas où)
+.DS_Store
+Thumbs.db
